@@ -1,0 +1,192 @@
+[
+  {
+    "category": "川菜",
+    "ref": "chuancai",
+    "lists": [
+      {
+        "id": "0011",
+        "imgUrl": "./static/imgs/dinner1.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "川菜"
+      },
+      {
+        "id": "0012",
+        "imgUrl": "./static/imgs/dinner2.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "川菜"
+      },
+      {
+        "id": "0013",
+        "imgUrl": "./static/imgs/dinner3.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "川菜"
+      },
+      {
+        "id": "0014",
+        "imgUrl": "./static/imgs/dinner2.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "川菜"
+      }
+    ]
+  },
+  {
+    "category": "早餐",
+    "ref": "zaocan",
+    "lists": [
+      {
+        "id": "0051",
+        "imgUrl": "./static/imgs/dinner1.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "早餐"
+      },
+      {
+        "id": "0052",
+        "imgUrl": "./static/imgs/dinner2.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "早餐"
+      },
+      {
+        "id": "0053",
+        "imgUrl": "./static/imgs/dinner3.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "早餐"
+      },
+      {
+        "id": "0054",
+        "imgUrl": "./static/imgs/dinner2.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "早餐"
+      }
+    ]
+  },
+  {
+    "category": "酒水",
+    "ref": "jiushui",
+    "lists": [
+      {
+        "id": "0021",
+        "imgUrl": "./static/imgs/dinner1.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "酒水"
+      },
+      {
+        "id": "0022",
+        "imgUrl": "./static/imgs/dinner2.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "酒水"
+      },
+      {
+        "id": "0023",
+        "imgUrl": "./static/imgs/dinner3.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "酒水"
+      },
+      {
+        "id": "0024",
+        "imgUrl": "./static/imgs/dinner2.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "酒水"
+      }
+    ]
+  },
+  {
+    "category": "晚餐",
+    "ref": "wancan",
+    "lists": [
+      {
+        "id": "0031",
+        "imgUrl": "./static/imgs/dinner1.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "晚餐"
+      },
+      {
+        "id": "0032",
+        "imgUrl": "./static/imgs/dinner2.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "晚餐"
+      },
+      {
+        "id": "0033",
+        "imgUrl": "./static/imgs/dinner3.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "晚餐"
+      },
+      {
+        "id": "0034",
+        "imgUrl": "./static/imgs/dinner2.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "晚餐"
+      }
+    ]
+  },
+  {
+    "category": "主食",
+    "ref": "zhushi",
+    "lists": [
+      {
+        "id": "0041",
+        "imgUrl": "./static/imgs/dinner1.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "主食"
+      },
+      {
+        "id": "0042",
+        "imgUrl": "./static/imgs/dinner2.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "主食"
+      },
+      {
+        "id": "0043",
+        "imgUrl": "./static/imgs/dinner3.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "主食"
+      },
+      {
+        "id": "0044",
+        "imgUrl": "./static/imgs/dinner2.jpg",
+        "title": "爱心早餐",
+        "price": 28,
+        "number": 0,
+        "category": "主食"
+      }
+    ]
+  }
+]
